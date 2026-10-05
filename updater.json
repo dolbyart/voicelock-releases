@@ -8,7 +8,7 @@
       "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.0/VoiceLock_0.1.0_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3Qwa2JtbGlvdUNGLzh2RG5CWk03czdTQ3UyaXR3YzZnTEVYRDltN21uZ1VtejZhMkIyOEduWjhsZFZLYlBiZlRWR0VDQWRUV2lReHJYQnZsdHlxaW1hcCtobDh1WWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTYzMzI2CWZpbGU6Vm9pY2VMb2NrXzAuMS4wX2FhcmNoNjQuZG1nCml3bS9mNDFHaE1JN0JGNmtsUVZZcVpDOWVWbVVBZ3pRNDcxSENEV1ZBQjdpZ2pVUkpweldrVUJkZW5iV1BHcFd4UldCM2s3M1dPRG5JS0lGaU1rSUN3PT0K",
       "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.0/VoiceLock_0.1.0_aarch64.dmg"
     }
   }

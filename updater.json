@@ -1,14 +1,14 @@
 {
   "version": "0.1.2",
-  "notes": "VoiceLock v0.1.2 — UI and dialog button grid alignment improvements.",
-  "pub_date": "2026-10-05T21:45:00Z",
+  "notes": "VoiceLock v0.1.2 — UI and dialog improvements, 30-day log retention and detailed diagnostics toggle.",
+  "pub_date": "2026-10-05T22:25:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3Qwa2JtbGlvdUF1b1RINzZzcFdHaFN0T2dTdjBMcDkyNlE2aHM3a0N0V0kwaVdGdWFCM0psbW1PbHFBQWFud0tnZEdXb0ZLZVp0M2lqd3ZHVzlhcmxGUEJtVFBaWEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjM2Njg0CWZpbGU6Vm9pY2VMb2NrXzAuMS4yX3g2NC1zZXR1cC5leGUKT0x5NHM0bFVHRXl3Q3Zzbi9pZFQ3bHhISjk4a0EvQTVFRkFkNGJNUkhGTVQyZ016UUFJUGNQTFhyTXpacGVtUFVUTnBSelkwQzhaaDRHMVM5SURrQmc9PQo=",
       "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.2/VoiceLock_0.1.2_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3Qwa2JtbGlvdUhmUVVZU3p5aUZRT2l0V0NPNHJreW9wT1d4bktwMFJUaHhzV09DUjFrU1A4bS9oNjhBWVF1cENXMGVFRGcwV0FLVHFzRDRwNmxkbmpTOVFmaTlVcXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjM3NzE2CWZpbGU6Vm9pY2VMb2NrXzAuMS4yX2FhcmNoNjQuYXBwLnRhci5nego3OFYyUTArZm1MSEdYZTI5cWRzMmh2OUEvMFJRY1VJYXJObWx1V2IvQ2pTUWtBTzJ6L2Zaa2pPSERhbnV5V2sybnNFMGZxY1ZyNDh4Y0kzRm9XS2JEQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3Qwa2JtbGlvdU5NVFFUS2FlSExrS2t3WnBYTm13dFpUa0NCbXc5d2loSGtPcFhWNU9uaGJya3dMUnNrVU9vdTJaNGhxYnY3QUQ3UjZBa0VOWWpia1pqb1J2MEdIVEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjM5MjQ3CWZpbGU6Vm9pY2VMb2NrXzAuMS4yX2FhcmNoNjQuYXBwLnRhci5negpWUVNpcnhYNGFYVVJUc1hoazVpbzRqbVdhQkl0a25TbFFSS2RzbjlSOWdOYUIzTFR6dTByU2NpQS96VFVsNnVCWGp2bUJxNGRqa0JLZGxQN0NDVzJCUT09Cg==",
       "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.2/VoiceLock_0.1.2_aarch64.app.tar.gz"
     }
   }

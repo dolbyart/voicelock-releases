@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "VoiceLock v0.1.0 — Free Lite & Pro Launch",
+  "pub_date": "2026-09-19T22:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3Qwa2JtbGlvdUZwWUdDbjQrOG1nZkEycEVrUlVQaldCeWlieWdCcHd0WHdnZEgyNnFRcElsdnBwdDY0Tjc2TmV0ZEtGVDN3V1NYWVFLeE4xRkNmblNoSVBnVDJRVWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTYyMzc4CWZpbGU6Vm9pY2VMb2NrXzAuMS4wX3g2NC1zZXR1cC5leGUKTHZkdTRwUzhkSmtTaTBVN1VTUHJic09xSmk1NmhGTXZQQUE2NERxdjFvS0J0UVA1LzB6am5rbkZTOGdqS2xUSGxGQ3VrNXdGZDh3bUExMzVCTlJMQkE9PQo=",
+      "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.0/VoiceLock_0.1.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.0/VoiceLock_0.1.0_aarch64.dmg"
+    }
+  }
+}

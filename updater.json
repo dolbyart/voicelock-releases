@@ -1,15 +1,15 @@
 {
-  "version": "0.1.3",
-  "notes": "VoiceLock v0.1.3 — Unified high-contrast iconography, optimized INT8 engine with ECAPA speaker identity gate, and benchmark audio baseline defaults.",
-  "pub_date": "2026-10-18T23:50:00Z",
+  "version": "0.1.4",
+  "notes": "VoiceLock v0.1.4 — Cross-platform Acoustic Echo Cancellation (AEC) with macOS CoreAudio Process Tap, TCC permission flow, and per-profile toggle.",
+  "pub_date": "2026-11-09T23:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3Qwa2JtbGlvdUEwTmtVSmFBZkpOREhGQkxZTmorOUlNRnFQblFPc1FZemVMTVdlMGtGSldaaWxmS0N4Q210VFROc2xMeUFPM281QzQrZ280NGNtbGJiQ0lORThCeWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzY4MDk2CWZpbGU6Vm9pY2VMb2NrXzAuMS4zX3g2NC1zZXR1cC5leGUKb1doZzN3YW5QYndJOFlFaVU5N2dxUzZxM09QSGxBdkdKd0hMQlBXMjc0QTVBL2lSNUFEUlpHbnBzYkg4NE1mY1hHL3g3aXlPUzQ2R3lXTGlCZk9YRFE9PQo=",
-      "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.3/VoiceLock_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3Qwa2JtbGlvdUJac2ZkbjdrZENEa1lyeFZoVDhxam5qQUJZZnR4STVyTjZhSnNlREVyWDVwUXdGZXNCMFdwNDR2dWhTSFdVMlB0TlJWd3FiSnRxcTNxYjkyMHFwRUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjY5OTA4CWZpbGU6Vm9pY2VMb2NrXzAuMS40X3g2NC1zZXR1cC5leGUKckZJdHVuM2l6ZEdDc2NGVXJkZlFzOHVUbDZEbUdWU2xyN012SUFEMEJBMk95NVFVbHNIQ1B0YW9iRW1hc3NWbklhTS9aSUFPVHlxVXlWN3oyRnNoQVE9PQo=",
+      "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.4/VoiceLock_0.1.4_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3Qwa2JtbGlvdU9uTHRicTAxbFVDMU1UOTE1WWdRaFozUkZIcTRicE1xaFBCOFNLWXkrMFpvcDRFWlltSG9lMlNoNnU4Y1UxL2JjTjlNOS9TcGdpSndINXlDYzM5SFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDU0NjY4CWZpbGU6Vm9pY2VMb2NrXzAuMS4zX2FhcmNoNjQuYXBwLnRhci5negpmdlJJWEJvaHltV3ZpKzBvL25OT09HN0xDUUtrc3ZCTW05WXBkWXdTVFVwR256NndSMXR5dDY0ZDlnUkllQy8zOFd1MFZOMEFGN1JhTmx5TnJSTWhCZz09Cg==",
-      "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.3/VoiceLock_0.1.3_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3Qwa2JtbGlvdU5FWGFKOElNVm5XRzJKRVVsRityamFQSnJuczNEVytQdFNuNzBZMDdFbklwQ3kvU2Q5ZWZMVHZBWTd2b2tIQ2FSbkxPUkJDQVFrYWlUVjkvTFdsTVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjY4NzIxCWZpbGU6Vm9pY2VMb2NrXzAuMS40X2FhcmNoNjQuYXBwLnRhci5negpnUmxhWU5XWFdVajluZlFWdEI2dnhQRzFER3pReWZYZlRBUENSNXh4L0lRSDczeFB2bm52OE9hMVR4N3dMcGRlQkxPU2hRTGJNT3dYcVFaeTB0eFNBZz09Cg==",
+      "url": "https://github.com/dolbyart/voicelock-releases/releases/download/v0.1.4/VoiceLock_0.1.4_aarch64.app.tar.gz"
     }
   }
 }
